@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Medcare</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_message">It is time to take medicine</string>
+    <string name="dialog_title">Alert</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

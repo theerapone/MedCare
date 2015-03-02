@@ -39,7 +39,7 @@ public class SearchMedicine extends Activity {
         @Override
         public void onItemClick(AdapterView<?> adapter, View view, int position, long arg3) {
             // TODO Auto-generated method stub
-            TextView listTextId = (TextView) view.findViewById(R.id.tvNameMedicine);
+            TextView listTextId = (TextView) view.findViewById(R.id.tvIDMedicine);
             TextView listTextName = (TextView) view.findViewById(R.id.tvNameMedicine);
             String text = listTextId.getText().toString() + ":" + listTextName.getText().toString();
 
